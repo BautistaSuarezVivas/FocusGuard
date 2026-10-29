@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Escudo con un punto de foco. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFE3F2FD"
+        android:pathData="M54,28 L76,36 L76,54 C76,67 66.5,77.5 54,81 C41.5,77.5 32,67 32,54 L32,36 Z" />
+    <path
+        android:fillColor="#FF1B3A4B"
+        android:pathData="M54,44 A10,10 0 1,1 53.99,44 Z" />
+    <path
+        android:fillColor="#FF4FC3F7"
+        android:pathData="M54,49 A5,5 0 1,1 53.99,49 Z" />
+</vector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_service_label">FocusGuard – control de distracciones</string>
+    <string name="accessibility_service_summary">Bloquea Reels/Shorts y aplica tus límites de tiempo y de aperturas.</string>
+    <string name="accessibility_service_description">FocusGuard no es una herramienta de accesibilidad para personas con discapacidad. Usa este servicio únicamente para: (1) saber qué aplicación está en primer plano, para contar tus aperturas y tu tiempo de uso en las apps que vos elegiste controlar; (2) leer la estructura de la pantalla de Instagram y YouTube (identificadores de vistas, descripciones y textos de botones) para reconocer los visores de Reels y Shorts; (3) ejecutar las acciones Atrás / Inicio para salir de esas secciones o de una app cuyo límite se agotó. No guarda textos, mensajes, contraseñas ni capturas de pantalla, y no envía nada a Internet: la app ni siquiera tiene permiso de red.</string>
+</resources>

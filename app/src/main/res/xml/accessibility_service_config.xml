@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  isAccessibilityTool="false": FocusGuard NO es una herramienta de accesibilidad para personas con
+  discapacidad. Usa la API solo para detectar qué app está en primer plano y reconocer los visores
+  de Reels / Shorts.
+  No se filtra por packageNames porque se necesitan los cambios de ventana de todas las apps para
+  saber cuándo se sale de una app controlada.
+-->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewScrolled"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows|flagIncludeNotImportantViews"
+    android:canPerformGestures="false"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/accessibility_service_description"
+    android:isAccessibilityTool="false"
+    android:notificationTimeout="100"
+    android:summary="@string/accessibility_service_summary" />

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mismo id que el visor de Reels real, para la detección por id. -->
+    <item name="clips_viewer_view_pager" type="id" />
+    <item name="home_root" type="id" />
+</resources>

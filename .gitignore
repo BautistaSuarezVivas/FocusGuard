@@ -1,0 +1,14 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+# El APK se publica como Release de GitHub, no en el repositorio.
+dist/*.apk
+# Claves de firma: nunca al repositorio.
+*.jks
+*.keystore
+captures/
+.DS_Store
