@@ -12,9 +12,13 @@ Internet, cuentas, publicidad ni analítica.
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue)
 
 <p align="center">
-  <img src="docs/img/panel.png" width="280" alt="Panel principal con el modo mañana activo y el bloqueo de videos cortos">
+  <img src="docs/img/Pantalla_Principal.jpeg" width="220" alt="Panel principal con el modo mañana activo y el bloqueo de videos cortos">
   &nbsp;&nbsp;
-  <img src="docs/img/modo-manana.png" width="280" alt="Configuración del modo mañana">
+  <img src="docs/img/Modo_Mañana.jpeg" width="220" alt="Configuración del modo mañana">
+  &nbsp;&nbsp;
+  <img src="docs/img/Ajustes_Videos_Cortos.jpeg" width="220" alt="Configuración de los videos cortos">
+  &nbsp;&nbsp;
+  <img src="docs/img/Ajustes.jpeg" width="220" alt="Configuración general">
 </p>
 
 ## Funciones
